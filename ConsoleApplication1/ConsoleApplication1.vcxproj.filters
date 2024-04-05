@@ -27,5 +27,8 @@
     <ClCompile Include="data_Struct_chap03(stack)4.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="data_Struct_chap03(stack)5.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

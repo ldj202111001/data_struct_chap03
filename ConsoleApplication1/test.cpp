@@ -10,4 +10,5 @@
 int main()
 {
 	// 해당 내용은 docs에
+	printf("hello");
 }
